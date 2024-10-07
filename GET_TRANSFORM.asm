@@ -1,5 +1,4 @@
-{
-  Game   : kogama.exe
+{
   Version: 1.1
   Date   : 2024-10-06
   Author : Veni
